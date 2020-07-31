@@ -154,7 +154,7 @@ lenguaje, mientras que otra expresión como "ADD Y TO X GIVING X" es
 sintácticamente muy distinta, sin embargo, expresan el mismo sentido.
 Estos problemas se pueden rastrear, al menos, hasta los trabajos de
 Gotlob Frege sobre la naturaleza de la matemática y la lógica. Si bien
-la semántica de un lenguaje formar se puede fijar de manera precisa,
+la semántica de un lenguaje formal se puede fijar de manera precisa,
 existen muchas posibilidades para hacerlo, como las semánticas
 operacionales, las denotacionales y las axiomáticas. Saul Kripke,
 ayudado por una lectura particular de las obras de Wittgenstein, fue uno
